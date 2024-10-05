@@ -12,7 +12,7 @@ Our journey through this prestigious hackathon was marked by hard work and innov
 ## Resources
 We are sharing these presentations to help future participants of the TVS Credit Hackathon. We hope that by looking through our approach and insights, you can benefit and push forward with your own innovative solutions.
 
-- [Final Round Presentation](link_to_final_round_ppt)
-- [Pre-Final Round Presentation](link_to_pre_final_round_ppt)
+- [Final Round Presentation](https://github.com/svssathvik7/tvs_credit/blob/main/IT_svssathvik77.pdf)
+- [Pre-Final Round Presentation](https://github.com/svssathvik7/tvs_credit/blob/main/MVGRCE_svssathvik77_Case%20Study%20Round.pptx)
 
 Good luck to all future participants! 🍀🚀
